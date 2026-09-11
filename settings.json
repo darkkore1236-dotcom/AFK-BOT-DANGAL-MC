@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bleak.aternos.host:50828",
+    "ip": "bleak.aternos.host",
     "port": 50828,
     "version": "1.20.1",
     "try-creative": false
