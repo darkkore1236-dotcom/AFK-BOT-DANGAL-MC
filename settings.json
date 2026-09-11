@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DANGALSMP007.aternos.me",
+    "ip": "bleak.aternos.host:50828",
     "port": 50828,
     "version": "1.20.1",
     "try-creative": false
