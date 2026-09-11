@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK BOCHYA",
+    "username": "killergod",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bleak.aternos.host",
+    "ip": "DANGALSMP007.aternos.me",
     "port": 50828,
     "version": "1.20.1",
     "try-creative": false
